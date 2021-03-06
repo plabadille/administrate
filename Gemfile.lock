@@ -1,3 +1,12 @@
+GIT
+  remote: https://github.com/thoughtbot/appraisal.git
+  revision: 0c855ae0da89fec74b4d1a01801c55b0e72496d4
+  specs:
+    appraisal (2.4.1)
+      bundler
+      rake
+      thor (>= 0.14.0)
+
 PATH
   remote: .
   specs:
@@ -80,10 +89,6 @@ GEM
       activesupport (>= 3.0)
       railties (>= 3.0)
       rspec-rails (>= 2.2)
-    appraisal (2.4.1)
-      bundler
-      rake
-      thor (>= 0.14.0)
     ast (2.4.2)
     awesome_print (1.9.2)
     better_html (2.0.1)
@@ -338,7 +343,7 @@ DEPENDENCIES
   administrate!
   administrate-field-image
   ammeter
-  appraisal
+  appraisal!
   awesome_print
   byebug
   capybara
