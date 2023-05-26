@@ -3,6 +3,7 @@ PATH
   specs:
     administrate (0.18.0)
       actionpack (>= 5.0)
+      actiontext (>= 6.0)
       actionview (>= 5.0)
       activerecord (>= 5.0)
       jquery-rails (>= 4.0)
